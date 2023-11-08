@@ -5,7 +5,7 @@
 </head>
 <body>
     <header>
-        <h1>Canarinho pistola</h1>
+        <h1> Canarinho pistola </h1>
     </header>
     <nav>
         <ul>
